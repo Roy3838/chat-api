@@ -1,5 +1,6 @@
 LICENSE
 README.md
+main.py
 setup.py
 chat_client.egg-info/PKG-INFO
 chat_client.egg-info/SOURCES.txt

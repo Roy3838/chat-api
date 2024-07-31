@@ -1,2 +1,2 @@
 [console_scripts]
-chat_client = chat_client:main
+chat_client = main:main
